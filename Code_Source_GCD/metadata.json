@@ -1,0 +1,8 @@
+{
+  "name": "Plateforme GCD - Gestion des Candidatures Doctorales",
+  "description": "Application interactive de sélection de sujets de thèse, panier local, validation par email académique et audit des diplômes pour directeurs de thèse.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
